@@ -1,0 +1,26 @@
+//LCD Connections
+
+LCD - ESP32
+GND to GND
+VDD to 5V
+RW to GND
+RS to GPIO-19
+EN to GPIO-23
+D4 to GPIO-18
+D5 to GPIO-17
+D6 to GPIO-16
+D7 to GPIO-15
+A to 5V
+K to GND
+
+// LEDs
+LED1 anode to GPIO 14
+LED2 anode to GPIO 13
+LED3 anode to GPIO 12
+LED4 anode to GPIO 25
+LED5 anode to GPIO 33
+all Cathodes to GND
+
+// MCB
+MCB_Line to GPIO 26
+MCB_Load to GND 
