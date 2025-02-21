@@ -1,4 +1,4 @@
-//LCD Connections
+//LCD Connections (non I2C connection)
 
 LCD - ESP32
 GND to GND
